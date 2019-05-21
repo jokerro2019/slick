@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blue
+}
+
+img {
+    width: 100%;
+}
+
+.slider {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.slider_item {
+    padding: 10px;
+}
+
